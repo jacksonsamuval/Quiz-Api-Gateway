@@ -11,6 +11,10 @@ public class RouteValidator {
     private static final List<String> openApiEndpoints = List.of(
         "/auth/login",
         "/auth/register",
+        "/auth/resetPassword",
+        "/auth/forgotPassword",
+        "/auth/resendOtp",
+        "/auth/otpVerifiaction",
         "/eureka"
         
     );
