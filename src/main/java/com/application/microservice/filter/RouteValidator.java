@@ -14,7 +14,7 @@ public class RouteValidator {
         "/auth/resetPassword",
         "/auth/forgotPassword",
         "/auth/resendOtp",
-        "/auth/otpVerifiaction",
+        "/auth/otpVerification",
         "/eureka"
         
     );
